@@ -25,6 +25,7 @@ Pre-processing dataset ini bertujuan untuk meningkatkan kualitas pelatihan denga
 
 
 yolov8n.pt: Model YOLOv8 Nano yang telah di-pretrained pada dataset COCO.
+
 Nano: Versi yang ringan dan cepat dari YOLOv8, cocok untuk perangkat dengan sumber daya terbatas.
 
 Ultralytics 8.3.55  Python-3.10.0 torch-2.5.1+cpu CPU (11th Gen Intel Core(TM) i7-11800H 2.30GHz)
