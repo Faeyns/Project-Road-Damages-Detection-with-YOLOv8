@@ -51,3 +51,6 @@ Speed: 1.4ms preprocess, 61.9ms inference, 0.0ms loss, 0.3ms postprocess per ima
 
 Untuk detail training lanjutnya, serta validation, testing, dan juga inference beserta evaluasi dan kesimpulannya terdapat di file Ipynb.
 Source_Code_Project_VK__IF_45_DSIS_03_Kelompok_7_Road_Damages_Object_Detection
+
+Disediakan juga paper penelitian terhadap project ini berbasis inggris dan indonesia.
+Final Report Project VK_IF-45-DSIS.03_Kelompok 7_Road Damages Object Detection
